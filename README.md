@@ -1,6 +1,8 @@
 # Unintuitive Predictors of Success in Football (Soccer)
 
 
+Full Paper is 'Unintuitive Predictors.pdf'
+
 The sport of soccer has gained significant traction within the United States in recent years with the 
 growing popularity of the MLS (Major League Soccer).  On a high-level, soccer is about scoring more than your opponent.  
 The complexity of the game lies in the fact that the upper body cannot be used aside from the head (hence its original and 
